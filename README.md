@@ -17,4 +17,4 @@ A classic **Brick Breaker** game built with HTML, CSS, and JavaScript. Control t
 ## 📦 Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/brick-breaker-game.git
+git clone https://github.com/RockingChauhan/brick-breaker-game.git
